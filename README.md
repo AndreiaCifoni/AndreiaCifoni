@@ -1,16 +1,34 @@
-### Hi there 👋
+![Hi there](https://res.cloudinary.com/deiacifoni/image/upload/v1667831016/projects/banner2_fceepn.jpg)
 
-<!--
-**AndreiaCifoni/AndreiaCifoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :woman_scientist: :woman_technologist: About: Hi there, I'm Andreia. After years of working as a Scientist/Engineer, I currently describe myself as a woman in her 30s discovering a new passion as a Web Developer. I'm highly professional, committed, and excited about this new programming world.
+- :monocle_face: Check out my latest project on React: [The Triad](https://andreiacifoni.github.io/TheTriad/#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Upcoming
+:books: My next steps in my learning path will be to review the back end and learn SQL database.
+
+
+## Language
+JavaScript
+
+## Libraries and Frameworks
+React, Redux, Context, Bootstrap, SASS, Express, Passport, Mongoose
+
+## Plataforms
+Git, GitHub, Node.js
+
+## Database
+MongoDB
+
+## Cloud Services
+Heroku, Netlify, Cloudinary
+
+## Others
+HTML, CSS, EJS
+
+### 📫 How to reach me:
+E-mail: andreiacifoni@gmail.com
+
+Linkedin: https://linkedin.com/in/andreiacifoni
+
+
